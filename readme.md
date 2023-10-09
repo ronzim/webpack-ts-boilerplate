@@ -1,3 +1,5 @@
+![luxray](https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png)
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
